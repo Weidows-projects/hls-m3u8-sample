@@ -3,13 +3,13 @@
  # @Author: Weidows
  # @Date: 2022-02-24 18:25:21
  # @LastEditors: Weidows
- # @LastEditTime: 2022-02-25 15:12:54
+ # @LastEditTime: 2022-02-25 22:46:52
  # @FilePath: \hls-m3u8-sample\2.encrypted-without-iv.sh
  # @Description: 分片+加密
  # @!: *********************************************************************
 ###
 
-workPath="encrypted-without-iv"
+workPath="2.encrypted-without-iv"
 
 # 清除原先的
 rm -rf $workPath/*

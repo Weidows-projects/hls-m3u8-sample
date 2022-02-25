@@ -3,7 +3,7 @@
  * @Author: Weidows
  * @Date: 2022-02-24 18:25:21
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-25 15:30:35
+ * @LastEditTime: 2022-02-25 22:40:06
  * @FilePath: \hls-m3u8-sample\README.md
  * @Description:
  * @!: *********************************************************************
@@ -19,10 +19,4 @@
 
 ---
 
-demo.mp4
-
-1. -分片-> \*.ts
-
-2. -加密-> enc\_\*.ts
-
-3. -解密-> dec\_\*.ts
+`demo.mp4` -分片-> `*.ts` -加密-> `enc_*.ts` -解密-> `dec_*.ts`

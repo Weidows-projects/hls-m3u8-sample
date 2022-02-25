@@ -3,13 +3,13 @@
  # @Author: Weidows
  # @Date: 2022-02-24 18:25:21
  # @LastEditors: Weidows
- # @LastEditTime: 2022-02-25 14:56:54
+ # @LastEditTime: 2022-02-25 22:47:22
  # @FilePath: \hls-m3u8-sample\3.encrypted-with-iv.sh
  # @Description: 分片+加密+偏移
  # @!: *********************************************************************
 ###
 
-workPath="encrypted-with-iv"
+workPath="3.encrypted-with-iv"
 
 rm -rf $workPath/*
 
