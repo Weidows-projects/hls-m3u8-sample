@@ -1,0 +1,3 @@
+[submodule "6.video-hls-encrypt"]
+	path = 6.video-hls-encrypt
+	url = https://github.com/hauk0101/video-hls-encrypt.git
