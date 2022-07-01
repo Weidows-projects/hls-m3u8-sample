@@ -18,6 +18,6 @@
   3. 文章描述: [🌏 媒体资源加密 -and- 解密获取](https://weidows.github.io/post/Web/get-resources/)
   4. 最后可以通过 6. 的项目熟悉熟悉
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 `demo.mp4` -分片-> `*.ts` -加密-> `enc_*.ts` -解密-> `dec_*.ts`
